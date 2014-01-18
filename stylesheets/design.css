@@ -121,7 +121,7 @@ section.team .pane { background: #FC3232;margin: 0 0 22px 0;  z-index:1;}
 section.team .pane > :first-child { margin-top: 0; }
 section.team .pane > :last-child { margin-bottom: 0; }
 
-section.clients { background: #2D2B28; width: 100%; padding:100px 0 100px 0;}
+section.technologies { background: #2D2B28; width: 100%; padding:100px 0 100px 0;}
 section.clients h1 {font-weight:400; color:#DDD; margin-bottom:20px;}
 section.clients h4 {font-weight:400; color:#DDD; padding:20px 0 0px 0;margin:0;}
 section.clients h5 {font-weight:400; color:#FFF; padding:20px 0 10px 0;margin:0; font-size:22px;}
